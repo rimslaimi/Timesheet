@@ -1,0 +1,59 @@
+form fieldset {
+    position: absolute;
+    width: 500px;
+    height: 550px;
+    left: 800px;
+    right:300px;
+    top: 40px;
+    
+    background: #131D22;
+    border-radius: 20px;
+    }
+
+    button{position: absolute;
+        width: 150px;
+        height: 50px;
+        left: 330px;
+        top: 350px;
+        border: rgba(107, 255, 188, 0.7);
+        background: rgba(107, 255, 188, 0.7);
+        border-radius: 20px;
+      color: white;
+    }
+  
+        
+     h4{position: absolute;
+          width: 612px;
+          height: 48px;
+          left: 180px;
+          top: 90px;
+          
+          font-family: 'Inter';
+          font-style: normal;
+          font-weight: 700;
+          font-size: 30px;
+          line-height: 48px;
+          
+          color: #FFFFFF;
+          
+      }
+     
+      h3{
+        position: absolute;
+        width: 505px;
+        height: 48px;
+        left: 300px;
+        top: 280px;
+        
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 700px;
+        font-size: 20px;
+        line-height: 48px;
+        
+        color: #FFFFFF;
+        
+      }
+      
+        
+      

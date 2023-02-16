@@ -1,0 +1,29 @@
+
+form fieldset {
+    position: absolute;
+    width: 791px;
+    height: 550px;
+    left: 300px;
+    right:300px;
+    top: 27px;
+    
+    background: #131D22;
+    border-radius: 20px;
+    }
+
+    button{position: absolute;
+        width: 311px;
+        height: 50px;
+        left: 400px;
+        top: 250px;
+        border: rgba(107, 255, 188, 0.7);
+        background: rgba(107, 255, 188, 0.7);
+        border-radius: 20px;
+        text-decoration: none;}
+       .rb{ text-align: center;
+         }
+         img{
+          width: 45px;
+        height: 45px;
+          
+         }
